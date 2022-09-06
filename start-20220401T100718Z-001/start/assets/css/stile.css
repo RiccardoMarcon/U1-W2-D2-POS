@@ -195,6 +195,10 @@ footer a {
 
 .img_1 {
   float: left;
+  border: 5px solid lightskyblue;
+  outline: 5px solid purple;
+  padding-top: 6px;
+  margin-right: 10px;
 }
 
 nav a {
@@ -232,15 +236,15 @@ header {
 }
 .social {
   position: fixed;
-  bottom: 35vh;
+  bottom: 200px;
   right: 1px;
 }
 .social a {
   color: blue;
-  font-size: 4rem;
+  font-size: 3.5rem;
   display: block;
 }
 .top .far,
 .social .far {
-  background: transparent;
+  background-color: transparent;
 }
